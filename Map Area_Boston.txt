@@ -1,0 +1,7 @@
+Map Area
+
+Boston, United States (https://mapzen.com/data/metro-extracts/metro/boston_massachusetts/)
+
+The OSM XMS file is 414 MB.
+
+I chose this area since I want to visit this area in a few months for a tour.
